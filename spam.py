@@ -27,7 +27,7 @@ def mulai():
     Nomor = int(Nomor) 
     
     print
-    print ('\x1b[1;97m(Ex : 5)')
+    print ('\x1b[1;97m(Ex : 1000)')
     Jumlah = input('Jumlah : \x1b[1;92m')
     if Jumlah > 15:
         print
